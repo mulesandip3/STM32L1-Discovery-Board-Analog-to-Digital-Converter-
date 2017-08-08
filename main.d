@@ -1,0 +1,14 @@
+.\main.o: main.c
+.\main.o: main.h
+.\main.o: C:\Keil_v5\ARM\ARMCC\Bin\..\include\stdio.h
+.\main.o: .\CMSIS\Device\ST\STM32L1xx\Include\stm32l1xx.h
+.\main.o: .\CMSIS\Include\core_cm3.h
+.\main.o: C:\Keil_v5\ARM\ARMCC\Bin\..\include\stdint.h
+.\main.o: .\CMSIS\Include\core_cmInstr.h
+.\main.o: .\CMSIS\Include\core_cmFunc.h
+.\main.o: .\CMSIS\Device\ST\STM32L1xx\Include\system_stm32l1xx.h
+.\main.o: ..\adc_lcd_W\stm32l1xx_conf.h
+.\main.o: .\STM32L1xx_StdPeriph_Driver\inc\stm32l1xx_gpio.h
+.\main.o: .\CMSIS\Device\ST\STM32L1xx\Include\stm32l1xx.h
+.\main.o: .\STM32L1xx_StdPeriph_Driver\inc\stm32l1xx_rcc.h
+.\main.o: .\STM32L1xx_StdPeriph_Driver\inc\stm32l1xx_adc.h

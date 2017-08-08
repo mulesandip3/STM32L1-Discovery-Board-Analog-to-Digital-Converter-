@@ -1,0 +1,113 @@
+Dependencies for Project 'adc_lcd', Target 'Target 1': (DO NOT MODIFY !)
+F (.\main.c)(0x59799B32)(--c99 -c --cpu Cortex-M3 -g -O0 --apcs=interwork --split_sections -I ..\adc_lcd_W -I .\CMSIS\Device\ST\STM32L1xx\Include -I .\CMSIS\Device\ST\STM32L1xx\Source -I .\CMSIS\Include -I .\STM32L1xx_StdPeriph_Driver\inc -I .\STM32L1xx_StdPeriph_Driver\src-I"F:\Info_Innotronics_pvt_ltd\Weighing Scale\adc_lcd_W\RTE"-IC:\Keil_v5\ARM\PACK\ARM\CMSIS\5.0.1\CMSIS\Include-IC:\Keil_v5\ARM\PACK\Keil\STM32L1xx_DFP\1.2.0\Device\Include-D__UVISION_VERSION="521" -D_RTE_ -DSTM32L100xC -DUSE_STDPERIPH_DRIVER-o .\main.o --omf_browse .\main.crf --depend .\main.d)
+I (main.h)(0x596331A4)
+I (C:\Keil_v5\ARM\ARMCC\include\stdio.h)(0x574E614E)
+I (.\CMSIS\Device\ST\STM32L1xx\Include\stm32l1xx.h)(0x58CBC290)
+I (.\CMSIS\Include\core_cm3.h)(0x5534BC94)
+I (C:\Keil_v5\ARM\ARMCC\include\stdint.h)(0x574E614E)
+I (.\CMSIS\Include\core_cmInstr.h)(0x5534BC94)
+I (.\CMSIS\Include\core_cmFunc.h)(0x5534BC94)
+I (.\CMSIS\Device\ST\STM32L1xx\Include\system_stm32l1xx.h)(0x5534FE7E)
+I (..\adc_lcd_W\stm32l1xx_conf.h)(0x58CBB8CC)
+I (.\STM32L1xx_StdPeriph_Driver\inc\stm32l1xx_gpio.h)(0x5534FE86)
+I (.\STM32L1xx_StdPeriph_Driver\inc\stm32l1xx_rcc.h)(0x5534FE86)
+I (.\STM32L1xx_StdPeriph_Driver\inc\stm32l1xx_adc.h)(0x5534FE86)
+F (.\STM32L1xx_StdPeriph_Driver\inc\stm32l1xx_rcc.h)(0x5534FE86)()
+F (.\main.h)(0x596331A4)()
+F (.\stm32l1xx_conf.h)(0x58CBB8CC)()
+F (.\STM32L1xx_StdPeriph_Driver\inc\stm32l1xx_adc.h)(0x5534FE86)()
+F (.\STM32L1xx_StdPeriph_Driver\inc\stm32l1xx_gpio.h)(0x5534FE86)()
+F (.\STM32L1xx_StdPeriph_Driver\src\stm32l1xx_adc.c)(0x5534FE86)(--c99 -c --cpu Cortex-M3 -g -O0 --apcs=interwork --split_sections -I ..\adc_lcd_W -I .\CMSIS\Device\ST\STM32L1xx\Include -I .\CMSIS\Device\ST\STM32L1xx\Source -I .\CMSIS\Include -I .\STM32L1xx_StdPeriph_Driver\inc -I .\STM32L1xx_StdPeriph_Driver\src-I"F:\Info_Innotronics_pvt_ltd\Weighing Scale\adc_lcd_W\RTE"-IC:\Keil_v5\ARM\PACK\ARM\CMSIS\5.0.1\CMSIS\Include-IC:\Keil_v5\ARM\PACK\Keil\STM32L1xx_DFP\1.2.0\Device\Include-D__UVISION_VERSION="521" -D_RTE_ -DSTM32L100xC -DUSE_STDPERIPH_DRIVER-o .\stm32l1xx_adc.o --omf_browse .\stm32l1xx_adc.crf --depend .\stm32l1xx_adc.d)
+I (.\STM32L1xx_StdPeriph_Driver\inc\stm32l1xx_adc.h)(0x5534FE86)
+I (.\CMSIS\Device\ST\STM32L1xx\Include\stm32l1xx.h)(0x58CBC290)
+I (.\CMSIS\Include\core_cm3.h)(0x5534BC94)
+I (C:\Keil_v5\ARM\ARMCC\include\stdint.h)(0x574E614E)
+I (.\CMSIS\Include\core_cmInstr.h)(0x5534BC94)
+I (.\CMSIS\Include\core_cmFunc.h)(0x5534BC94)
+I (.\CMSIS\Device\ST\STM32L1xx\Include\system_stm32l1xx.h)(0x5534FE7E)
+I (..\adc_lcd_W\stm32l1xx_conf.h)(0x58CBB8CC)
+I (.\STM32L1xx_StdPeriph_Driver\inc\stm32l1xx_gpio.h)(0x5534FE86)
+I (.\STM32L1xx_StdPeriph_Driver\inc\stm32l1xx_rcc.h)(0x5534FE86)
+F (.\STM32L1xx_StdPeriph_Driver\src\stm32l1xx_gpio.c)(0x5534FE86)(--c99 -c --cpu Cortex-M3 -g -O0 --apcs=interwork --split_sections -I ..\adc_lcd_W -I .\CMSIS\Device\ST\STM32L1xx\Include -I .\CMSIS\Device\ST\STM32L1xx\Source -I .\CMSIS\Include -I .\STM32L1xx_StdPeriph_Driver\inc -I .\STM32L1xx_StdPeriph_Driver\src-I"F:\Info_Innotronics_pvt_ltd\Weighing Scale\adc_lcd_W\RTE"-IC:\Keil_v5\ARM\PACK\ARM\CMSIS\5.0.1\CMSIS\Include-IC:\Keil_v5\ARM\PACK\Keil\STM32L1xx_DFP\1.2.0\Device\Include-D__UVISION_VERSION="521" -D_RTE_ -DSTM32L100xC -DUSE_STDPERIPH_DRIVER-o .\stm32l1xx_gpio.o --omf_browse .\stm32l1xx_gpio.crf --depend .\stm32l1xx_gpio.d)
+I (.\STM32L1xx_StdPeriph_Driver\inc\stm32l1xx_gpio.h)(0x5534FE86)
+I (.\CMSIS\Device\ST\STM32L1xx\Include\stm32l1xx.h)(0x58CBC290)
+I (.\CMSIS\Include\core_cm3.h)(0x5534BC94)
+I (C:\Keil_v5\ARM\ARMCC\include\stdint.h)(0x574E614E)
+I (.\CMSIS\Include\core_cmInstr.h)(0x5534BC94)
+I (.\CMSIS\Include\core_cmFunc.h)(0x5534BC94)
+I (.\CMSIS\Device\ST\STM32L1xx\Include\system_stm32l1xx.h)(0x5534FE7E)
+I (..\adc_lcd_W\stm32l1xx_conf.h)(0x58CBB8CC)
+I (.\STM32L1xx_StdPeriph_Driver\inc\stm32l1xx_rcc.h)(0x5534FE86)
+F (.\STM32L1xx_StdPeriph_Driver\src\stm32l1xx_rcc.c)(0x5534FE86)(--c99 -c --cpu Cortex-M3 -g -O0 --apcs=interwork --split_sections -I ..\adc_lcd_W -I .\CMSIS\Device\ST\STM32L1xx\Include -I .\CMSIS\Device\ST\STM32L1xx\Source -I .\CMSIS\Include -I .\STM32L1xx_StdPeriph_Driver\inc -I .\STM32L1xx_StdPeriph_Driver\src-I"F:\Info_Innotronics_pvt_ltd\Weighing Scale\adc_lcd_W\RTE"-IC:\Keil_v5\ARM\PACK\ARM\CMSIS\5.0.1\CMSIS\Include-IC:\Keil_v5\ARM\PACK\Keil\STM32L1xx_DFP\1.2.0\Device\Include-D__UVISION_VERSION="521" -D_RTE_ -DSTM32L100xC -DUSE_STDPERIPH_DRIVER-o .\stm32l1xx_rcc.o --omf_browse .\stm32l1xx_rcc.crf --depend .\stm32l1xx_rcc.d)
+I (.\STM32L1xx_StdPeriph_Driver\inc\stm32l1xx_rcc.h)(0x5534FE86)
+I (.\CMSIS\Device\ST\STM32L1xx\Include\stm32l1xx.h)(0x58CBC290)
+I (.\CMSIS\Include\core_cm3.h)(0x5534BC94)
+I (C:\Keil_v5\ARM\ARMCC\include\stdint.h)(0x574E614E)
+I (.\CMSIS\Include\core_cmInstr.h)(0x5534BC94)
+I (.\CMSIS\Include\core_cmFunc.h)(0x5534BC94)
+I (.\CMSIS\Device\ST\STM32L1xx\Include\system_stm32l1xx.h)(0x5534FE7E)
+I (..\adc_lcd_W\stm32l1xx_conf.h)(0x58CBB8CC)
+I (.\STM32L1xx_StdPeriph_Driver\inc\stm32l1xx_gpio.h)(0x5534FE86)
+F (.\adc_lcd.c)(0x59637F76)(--c99 -c --cpu Cortex-M3 -g -O0 --apcs=interwork --split_sections -I ..\adc_lcd_W -I .\CMSIS\Device\ST\STM32L1xx\Include -I .\CMSIS\Device\ST\STM32L1xx\Source -I .\CMSIS\Include -I .\STM32L1xx_StdPeriph_Driver\inc -I .\STM32L1xx_StdPeriph_Driver\src-I"F:\Info_Innotronics_pvt_ltd\Weighing Scale\adc_lcd_W\RTE"-IC:\Keil_v5\ARM\PACK\ARM\CMSIS\5.0.1\CMSIS\Include-IC:\Keil_v5\ARM\PACK\Keil\STM32L1xx_DFP\1.2.0\Device\Include-D__UVISION_VERSION="521" -D_RTE_ -DSTM32L100xC -DUSE_STDPERIPH_DRIVER-o .\adc_lcd.o --omf_browse .\adc_lcd.crf --depend .\adc_lcd.d)
+I (main.h)(0x596331A4)
+I (C:\Keil_v5\ARM\ARMCC\include\stdio.h)(0x574E614E)
+I (.\CMSIS\Device\ST\STM32L1xx\Include\stm32l1xx.h)(0x58CBC290)
+I (.\CMSIS\Include\core_cm3.h)(0x5534BC94)
+I (C:\Keil_v5\ARM\ARMCC\include\stdint.h)(0x574E614E)
+I (.\CMSIS\Include\core_cmInstr.h)(0x5534BC94)
+I (.\CMSIS\Include\core_cmFunc.h)(0x5534BC94)
+I (.\CMSIS\Device\ST\STM32L1xx\Include\system_stm32l1xx.h)(0x5534FE7E)
+I (..\adc_lcd_W\stm32l1xx_conf.h)(0x58CBB8CC)
+I (.\STM32L1xx_StdPeriph_Driver\inc\stm32l1xx_gpio.h)(0x5534FE86)
+I (.\STM32L1xx_StdPeriph_Driver\inc\stm32l1xx_rcc.h)(0x5534FE86)
+I (.\STM32L1xx_StdPeriph_Driver\inc\stm32l1xx_adc.h)(0x5534FE86)
+F (.\lcd.c)(0x595F4EAE)(--c99 -c --cpu Cortex-M3 -g -O0 --apcs=interwork --split_sections -I ..\adc_lcd_W -I .\CMSIS\Device\ST\STM32L1xx\Include -I .\CMSIS\Device\ST\STM32L1xx\Source -I .\CMSIS\Include -I .\STM32L1xx_StdPeriph_Driver\inc -I .\STM32L1xx_StdPeriph_Driver\src-I"F:\Info_Innotronics_pvt_ltd\Weighing Scale\adc_lcd_W\RTE"-IC:\Keil_v5\ARM\PACK\ARM\CMSIS\5.0.1\CMSIS\Include-IC:\Keil_v5\ARM\PACK\Keil\STM32L1xx_DFP\1.2.0\Device\Include-D__UVISION_VERSION="521" -D_RTE_ -DSTM32L100xC -DUSE_STDPERIPH_DRIVER-o .\lcd.o --omf_browse .\lcd.crf --depend .\lcd.d)
+I (main.h)(0x596331A4)
+I (C:\Keil_v5\ARM\ARMCC\include\stdio.h)(0x574E614E)
+I (.\CMSIS\Device\ST\STM32L1xx\Include\stm32l1xx.h)(0x58CBC290)
+I (.\CMSIS\Include\core_cm3.h)(0x5534BC94)
+I (C:\Keil_v5\ARM\ARMCC\include\stdint.h)(0x574E614E)
+I (.\CMSIS\Include\core_cmInstr.h)(0x5534BC94)
+I (.\CMSIS\Include\core_cmFunc.h)(0x5534BC94)
+I (.\CMSIS\Device\ST\STM32L1xx\Include\system_stm32l1xx.h)(0x5534FE7E)
+I (..\adc_lcd_W\stm32l1xx_conf.h)(0x58CBB8CC)
+I (.\STM32L1xx_StdPeriph_Driver\inc\stm32l1xx_gpio.h)(0x5534FE86)
+I (.\STM32L1xx_StdPeriph_Driver\inc\stm32l1xx_rcc.h)(0x5534FE86)
+I (.\STM32L1xx_StdPeriph_Driver\inc\stm32l1xx_adc.h)(0x5534FE86)
+F (.\button.c)(0x595F82A6)(--c99 -c --cpu Cortex-M3 -g -O0 --apcs=interwork --split_sections -I ..\adc_lcd_W -I .\CMSIS\Device\ST\STM32L1xx\Include -I .\CMSIS\Device\ST\STM32L1xx\Source -I .\CMSIS\Include -I .\STM32L1xx_StdPeriph_Driver\inc -I .\STM32L1xx_StdPeriph_Driver\src-I"F:\Info_Innotronics_pvt_ltd\Weighing Scale\adc_lcd_W\RTE"-IC:\Keil_v5\ARM\PACK\ARM\CMSIS\5.0.1\CMSIS\Include-IC:\Keil_v5\ARM\PACK\Keil\STM32L1xx_DFP\1.2.0\Device\Include-D__UVISION_VERSION="521" -D_RTE_ -DSTM32L100xC -DUSE_STDPERIPH_DRIVER-o .\button.o --omf_browse .\button.crf --depend .\button.d)
+I (main.h)(0x596331A4)
+I (C:\Keil_v5\ARM\ARMCC\include\stdio.h)(0x574E614E)
+I (.\CMSIS\Device\ST\STM32L1xx\Include\stm32l1xx.h)(0x58CBC290)
+I (.\CMSIS\Include\core_cm3.h)(0x5534BC94)
+I (C:\Keil_v5\ARM\ARMCC\include\stdint.h)(0x574E614E)
+I (.\CMSIS\Include\core_cmInstr.h)(0x5534BC94)
+I (.\CMSIS\Include\core_cmFunc.h)(0x5534BC94)
+I (.\CMSIS\Device\ST\STM32L1xx\Include\system_stm32l1xx.h)(0x5534FE7E)
+I (..\adc_lcd_W\stm32l1xx_conf.h)(0x58CBB8CC)
+I (.\STM32L1xx_StdPeriph_Driver\inc\stm32l1xx_gpio.h)(0x5534FE86)
+I (.\STM32L1xx_StdPeriph_Driver\inc\stm32l1xx_rcc.h)(0x5534FE86)
+I (.\STM32L1xx_StdPeriph_Driver\inc\stm32l1xx_adc.h)(0x5534FE86)
+F (.\led.c)(0x595F844C)(--c99 -c --cpu Cortex-M3 -g -O0 --apcs=interwork --split_sections -I ..\adc_lcd_W -I .\CMSIS\Device\ST\STM32L1xx\Include -I .\CMSIS\Device\ST\STM32L1xx\Source -I .\CMSIS\Include -I .\STM32L1xx_StdPeriph_Driver\inc -I .\STM32L1xx_StdPeriph_Driver\src-I"F:\Info_Innotronics_pvt_ltd\Weighing Scale\adc_lcd_W\RTE"-IC:\Keil_v5\ARM\PACK\ARM\CMSIS\5.0.1\CMSIS\Include-IC:\Keil_v5\ARM\PACK\Keil\STM32L1xx_DFP\1.2.0\Device\Include-D__UVISION_VERSION="521" -D_RTE_ -DSTM32L100xC -DUSE_STDPERIPH_DRIVER-o .\led.o --omf_browse .\led.crf --depend .\led.d)
+I (main.h)(0x596331A4)
+I (C:\Keil_v5\ARM\ARMCC\include\stdio.h)(0x574E614E)
+I (.\CMSIS\Device\ST\STM32L1xx\Include\stm32l1xx.h)(0x58CBC290)
+I (.\CMSIS\Include\core_cm3.h)(0x5534BC94)
+I (C:\Keil_v5\ARM\ARMCC\include\stdint.h)(0x574E614E)
+I (.\CMSIS\Include\core_cmInstr.h)(0x5534BC94)
+I (.\CMSIS\Include\core_cmFunc.h)(0x5534BC94)
+I (.\CMSIS\Device\ST\STM32L1xx\Include\system_stm32l1xx.h)(0x5534FE7E)
+I (..\adc_lcd_W\stm32l1xx_conf.h)(0x58CBB8CC)
+I (.\STM32L1xx_StdPeriph_Driver\inc\stm32l1xx_gpio.h)(0x5534FE86)
+I (.\STM32L1xx_StdPeriph_Driver\inc\stm32l1xx_rcc.h)(0x5534FE86)
+I (.\STM32L1xx_StdPeriph_Driver\inc\stm32l1xx_adc.h)(0x5534FE86)
+F (RTE\Device\STM32L100RC\startup_stm32l100xc.s)(0x57E0E938)(--cpu Cortex-M3 -g --apcs=interwork -I"F:\Info_Innotronics_pvt_ltd\Weighing Scale\adc_lcd_W\RTE"-IC:\Keil_v5\ARM\PACK\ARM\CMSIS\5.0.1\CMSIS\Include-IC:\Keil_v5\ARM\PACK\Keil\STM32L1xx_DFP\1.2.0\Device\Include--pd "__UVISION_VERSION SETA 521" --pd "_RTE_ SETA 1" --pd "STM32L100xC SETA 1"--list .\startup_stm32l100xc.lst --xref -o .\startup_stm32l100xc.o --depend .\startup_stm32l100xc.d)
+F (RTE\Device\STM32L100RC\system_stm32l1xx.c)(0x57E0E938)(--c99 -c --cpu Cortex-M3 -g -O0 --apcs=interwork --split_sections -I ..\adc_lcd_W -I .\CMSIS\Device\ST\STM32L1xx\Include -I .\CMSIS\Device\ST\STM32L1xx\Source -I .\CMSIS\Include -I .\STM32L1xx_StdPeriph_Driver\inc -I .\STM32L1xx_StdPeriph_Driver\src-I"F:\Info_Innotronics_pvt_ltd\Weighing Scale\adc_lcd_W\RTE"-IC:\Keil_v5\ARM\PACK\ARM\CMSIS\5.0.1\CMSIS\Include-IC:\Keil_v5\ARM\PACK\Keil\STM32L1xx_DFP\1.2.0\Device\Include-D__UVISION_VERSION="521" -D_RTE_ -DSTM32L100xC -DUSE_STDPERIPH_DRIVER-o .\system_stm32l1xx.o --omf_browse .\system_stm32l1xx.crf --depend .\system_stm32l1xx.d)
+I (.\CMSIS\Device\ST\STM32L1xx\Include\stm32l1xx.h)(0x58CBC290)
+I (.\CMSIS\Include\core_cm3.h)(0x5534BC94)
+I (C:\Keil_v5\ARM\ARMCC\include\stdint.h)(0x574E614E)
+I (.\CMSIS\Include\core_cmInstr.h)(0x5534BC94)
+I (.\CMSIS\Include\core_cmFunc.h)(0x5534BC94)
+I (.\CMSIS\Device\ST\STM32L1xx\Include\system_stm32l1xx.h)(0x5534FE7E)
+I (..\adc_lcd_W\stm32l1xx_conf.h)(0x58CBB8CC)
+I (.\STM32L1xx_StdPeriph_Driver\inc\stm32l1xx_gpio.h)(0x5534FE86)
+I (.\STM32L1xx_StdPeriph_Driver\inc\stm32l1xx_rcc.h)(0x5534FE86)

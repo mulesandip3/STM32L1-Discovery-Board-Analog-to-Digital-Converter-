@@ -1,0 +1,15 @@
+--cpu Cortex-M3
+".\main.o"
+".\stm32l1xx_adc.o"
+".\stm32l1xx_gpio.o"
+".\stm32l1xx_rcc.o"
+".\adc_lcd.o"
+".\lcd.o"
+".\button.o"
+".\led.o"
+".\startup_stm32l100xc.o"
+".\system_stm32l1xx.o"
+--strict --scatter ".\adc_lcd.sct"
+--summary_stderr --info summarysizes --map --xref --callgraph --symbols
+--info sizes --info totals --info unused --info veneers
+--list ".\adc_lcd.map" -o .\adc_lcd.axf

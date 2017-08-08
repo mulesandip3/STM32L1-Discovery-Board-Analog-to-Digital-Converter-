@@ -1,0 +1,11 @@
+.\system_stm32l1xx.o: RTE\Device\STM32L100RC\system_stm32l1xx.c
+.\system_stm32l1xx.o: .\CMSIS\Device\ST\STM32L1xx\Include\stm32l1xx.h
+.\system_stm32l1xx.o: .\CMSIS\Include\core_cm3.h
+.\system_stm32l1xx.o: C:\Keil_v5\ARM\ARMCC\Bin\..\include\stdint.h
+.\system_stm32l1xx.o: .\CMSIS\Include\core_cmInstr.h
+.\system_stm32l1xx.o: .\CMSIS\Include\core_cmFunc.h
+.\system_stm32l1xx.o: .\CMSIS\Device\ST\STM32L1xx\Include\system_stm32l1xx.h
+.\system_stm32l1xx.o: ..\adc_lcd_W\stm32l1xx_conf.h
+.\system_stm32l1xx.o: .\STM32L1xx_StdPeriph_Driver\inc\stm32l1xx_gpio.h
+.\system_stm32l1xx.o: .\CMSIS\Device\ST\STM32L1xx\Include\stm32l1xx.h
+.\system_stm32l1xx.o: .\STM32L1xx_StdPeriph_Driver\inc\stm32l1xx_rcc.h
